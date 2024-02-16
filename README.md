@@ -20,14 +20,14 @@
  
  <p align="center">Você tem todo o direito de usar esse material para seu próprio aprendizado. Espero que seja útil o conteúdo disponibilizado.</p><br>
 
-# Enunciado: ALGORITMO - ATRAVESSAR A MARGEM DO RIO
+## Enunciado: ALGORITMO - ATRAVESSAR A MARGEM DO RIO
 <br><p> Para atravessar um rio, uma família com um menino (criança) de 30 kg, 
 	sua irmã adolescente de 40 kg, sua mãe de 60 kg e seu pai de 100 kg 
 	dispõe de um barco a remo maltratado pelo tempo que suporta apenas 100 kg, 
 	ou seja, como todos os integrantes da família poderia
-    atravessar o rio com total segurança?
+    atravessar o rio com total segurança?<\p>
        
-	ATENÇÃO: A criança não pode atravessar e ficar sozinha na margem do rio;
+	<p>ATENÇÃO: A criança não pode atravessar e ficar sozinha na margem do rio;
     Poderá fazer várias viagens; 
     Passou de 100 kg é Game Over.
 	  
